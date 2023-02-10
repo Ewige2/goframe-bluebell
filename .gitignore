@@ -17,4 +17,5 @@ cbuild
 main
 output/
 manifest/output/
-temp/
+/hack/config.yaml
+/manifest/config/config.yaml
